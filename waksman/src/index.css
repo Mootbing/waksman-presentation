@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-h1, h2 {
+h1, h2, h3 {
   color: white;
   font-weight: 300;
   letter-spacing: 5px;
@@ -22,8 +22,8 @@ h1, h2 {
   word-break: break-all;
 }
 
-p, a {
-  color: white;
+p, li {
+  color: rgba(255, 255, 255, 0.75);
   font-weight: 300;
   font-family: 'Inter', sans-serif;
   padding: 0 25px;
@@ -32,5 +32,10 @@ p, a {
 }
 
 a {
-  color: blue;
+  color: rgb(152, 152, 255);
+  font-weight: 300;
+  font-family: 'Inter', sans-serif;
+  text-align: justify;
+  line-height: 1.5;
+  word-break: break-all;
 }
