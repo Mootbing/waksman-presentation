@@ -10,6 +10,7 @@ function App() {
       </head>
 
       <body>
+        <img style={{width: "100%"}} src="/header.png"/>
         <center>
           <h1>Intro</h1>
           <p>Welcome to our Advanced Waksman research project! The following is an introductory video made by the researchers who were involved.</p>
